@@ -2,4 +2,4 @@ RoverCommanderTool
 ==================
 
 Tool used by CMU scientists
-developed by SSN
+developed by SSN students`
